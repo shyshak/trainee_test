@@ -1,0 +1,77 @@
+﻿.main_div {
+    width: 500px;
+    height: 500px;
+    margin:auto
+}
+
+div > div {
+    margin: 0;
+    position: relative;
+}
+
+.red_div {
+    background-color: red;
+    width: 400px;
+    float: left;
+    /*position: relative;*/
+}
+
+.green_div {
+    background-color: green;
+    height: 400px;
+    float: right;
+    /*position: relative;*/
+}
+
+.yellow_div {
+    background-color: yellow;
+    height: 400px;
+    float: left;
+    /*position: relative;*/
+}
+
+.purple_div {
+    background-color: purple;
+    width: 200px;
+    float: left;
+    /*position: relative;*/
+}
+
+.grey_div {
+    background-color: grey;
+    height: 200px;
+    float: left;
+    /*position: relative;*/
+}
+
+.black_div {
+    background-color: black;
+    height: 200px;
+    float: left;
+    /*position: relative;*/
+    top: -100px;
+}
+
+.orange_div {
+    background-color: darkorange;
+    width: 200px;
+    float: left;
+    /*position: relative;*/
+}
+
+.blue_div {
+    background-color: blue;
+    width: 400px;
+    float: left;
+    top: -100px;
+    left: 100px;
+    /*position: relative;*/
+}
+
+.horizont {
+    height: 100px;
+}
+
+.vertical {
+    width: 100px;
+}

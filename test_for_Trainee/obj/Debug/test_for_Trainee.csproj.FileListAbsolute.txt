@@ -1,0 +1,6 @@
+c:\users\nastya\documents\visual studio 2013\Projects\test_for_Trainee\test_for_Trainee\bin\test_for_Trainee.dll.config
+c:\users\nastya\documents\visual studio 2013\Projects\test_for_Trainee\test_for_Trainee\bin\test_for_Trainee.dll
+c:\users\nastya\documents\visual studio 2013\Projects\test_for_Trainee\test_for_Trainee\bin\test_for_Trainee.pdb
+c:\users\nastya\documents\visual studio 2013\Projects\test_for_Trainee\test_for_Trainee\obj\Debug\test_for_Trainee.csprojResolveAssemblyReference.cache
+c:\users\nastya\documents\visual studio 2013\Projects\test_for_Trainee\test_for_Trainee\obj\Debug\test_for_Trainee.dll
+c:\users\nastya\documents\visual studio 2013\Projects\test_for_Trainee\test_for_Trainee\obj\Debug\test_for_Trainee.pdb
